@@ -32,5 +32,7 @@ Store command output in a file using redirection:
 ls -l > output.txt
 ```
 
-## 🖼️ **Screenshot**  
+## 🖼️ **Screenshots**  
 ![Lab 8 Screenshot](lab8.png)
+
+![Lab 8 Screenshot](lab8b.png)

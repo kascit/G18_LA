@@ -36,5 +36,9 @@ sudo dnf check-update
 sudo dnf remove package_name
 ```
 
-## 🖼️ **Screenshot**  
+## 🖼️ **Screenshots**  
 ![Lab 5 Screenshot](lab5.png)
+![Lab 5 Screenshot](lab5b.png)
+![Lab 5 Screenshot](lab5c.png)
+![Lab 5 Screenshot](lab5d.png)
+![Lab 5 Screenshot](lab5e.png)

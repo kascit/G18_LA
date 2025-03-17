@@ -2,8 +2,10 @@
 
 ![GitHub Repo](https://img.shields.io/github/repo-size/kascit/G18_LA)
 ![Contributors](https://img.shields.io/github/contributors/kascit/G18_LA)
+![Forks](https://img.shields.io/github/forks/kascit/G18_LA?style=social)
+![Stars](https://img.shields.io/github/stars/kascit/G18_LA?style=social)
+![Issues](https://img.shields.io/github/issues/kascit/G18_LA)
 
----
 
 ## 📚 **Labs Overview**
 | 🆔 Sr. No. | 📝 Experiment Summary | 🔗 Link |
