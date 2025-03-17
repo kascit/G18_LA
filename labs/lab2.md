@@ -32,7 +32,7 @@ echo {1..5}
 ```
 **Output:** `1 2 3 4 5`  
 
-## 🖼️ **Screenshot**  
+## 🖼️ **Screenshots**  
 ![Lab 2 Screenshot](lab2.png)
 
 ![Lab 2 Screenshot](lab2b.png)
