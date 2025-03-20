@@ -51,7 +51,7 @@ vim editing_final_lab.txt
 ```
 (This deletes everything after the first 4 characters.)
 
-## 🖼️ **Screenshot**
+## 🖼️ **Screenshots**
 ![Lab 3 Screenshot](lab3.png) 
 
 ![Lab 3 Screenshot](lab3b.png) 
