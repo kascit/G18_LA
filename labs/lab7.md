@@ -1,4 +1,4 @@
-### **# Lab 7: Implementing `chown` and `chmod` Commands**
+# Lab 7: Implementing `chown` and `chmod` Commands
 
 <div align="right">
     ⬅️<a href="../README.md"> Back</a>

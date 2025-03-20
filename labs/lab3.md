@@ -1,4 +1,4 @@
-### **# Lab 3: Editing Files with Vim and Nano**
+# Lab 3: Editing Files with Vim and Nano
 
 <div align="right">
     ⬅️<a href="../README.md"> Back</a>
