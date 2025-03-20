@@ -1,7 +1,9 @@
 ### **# Lab 7: Implementing `chown` and `chmod` Commands**
+
 <div align="right">
     ⬅️<a href="../README.md"> Back</a>
 </div>
+
 ## 📌 Objective
 Learn how to change file ownership using `chown` and modify file permissions using `chmod` with different options.
 
@@ -55,6 +57,7 @@ chmod 600 example.txt
 
 ## 🖼️ **Screenshot**
 ![Lab 7 Screenshot](lab7.png)
+
 <div align="right">
     ⬅️<a href="../README.md"> Back</a>
 </div>

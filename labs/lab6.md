@@ -1,7 +1,9 @@
 # Lab 6: User Management in Linux
+
 <div align="right">
     ⬅️<a href="../README.md"> Back</a>
 </div>
+
 ## 📌 Objective
 Learn how to create, manage, and remove users in Linux using `useradd`, `passwd`, `usermod`, and `userdel` commands.
 
@@ -54,6 +56,7 @@ sudo userdel operator3
 
 ## 🖼️ **Screenshot**
 ![Lab 6 Screenshot](lab6.png)
+
 <div align="right">
     ⬅️<a href="../README.md"> Back</a>
 </div>
