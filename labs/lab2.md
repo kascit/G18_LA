@@ -1,5 +1,7 @@
 # Lab 2: Exploring Man Pages and Brace Expansion
-
+<div align="right">
+    ⬅️<a href="../README.md"> Back</a>
+</div>
 ## 📌 Objective
 Learn how to use man pages, search commands related to `ext4`, and apply brace expansion in Linux.
 
@@ -36,3 +38,6 @@ echo {1..5}
 ![Lab 2 Screenshot](lab2.png)
 
 ![Lab 2 Screenshot](lab2b.png)
+<div align="right">
+    ⬅️<a href="../README.md"> Back</a>
+</div>

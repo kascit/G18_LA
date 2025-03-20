@@ -1,5 +1,7 @@
 # Lab 4: Directory Permissions and User Access Control
-
+<div align="right">
+    ⬅️<a href="../README.md"> Back</a>
+</div>
 ## 📌 Objective
 Learn how to create directories, set permissions using symbolic and octal methods, and configure `umask` for user access control.
 
@@ -42,3 +44,6 @@ umask
 
 ## 🖼️ **Screenshot**
 ![Lab 4 Screenshot](lab4.png)
+<div align="right">
+    ⬅️<a href="../README.md"> Back</a>
+</div>

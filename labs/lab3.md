@@ -1,5 +1,7 @@
 ### **# Lab 3: Editing Files with Vim and Nano**
-
+<div align="right">
+    ⬅️<a href="../README.md"> Back</a>
+</div>
 ## 📌 Objective
 Learn how to use `vim` and `nano` to edit files, utilize shell variables, and modify text efficiently.
 
@@ -53,3 +55,6 @@ vim editing_final_lab.txt
 ![Lab 3 Screenshot](lab3b.png) 
 
 ![Lab 3 Screenshot](lab3c.png)
+<div align="right">
+    ⬅️<a href="../README.md"> Back</a>
+</div>

@@ -1,5 +1,7 @@
 # Lab 5: Process Management and Package Management
-
+<div align="right">
+    ⬅️<a href="../README.md"> Back</a>
+</div>
 ## 📌 Objective
 Learn how to manage system processes using `ps`, `top`, and `kill` commands and handle software installation using `dnf`.
 
@@ -42,3 +44,6 @@ sudo dnf remove package_name
 ![Lab 5 Screenshot](lab5c.png)
 ![Lab 5 Screenshot](lab5d.png)
 ![Lab 5 Screenshot](lab5e.png)
+<div align="right">
+    ⬅️<a href="../README.md"> Back</a>
+</div>

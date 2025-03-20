@@ -1,5 +1,7 @@
 # Lab 8: Shell Scripting Basics
-
+<div align="right">
+    ⬅️<a href="../README.md"> Back</a>
+</div>
 ## 📌 Objective
 Write shell scripts to print system information, perform basic mathematical calculations with user input, and use redirection operators.
 
@@ -36,3 +38,6 @@ ls -l > output.txt
 ![Lab 8 Screenshot](lab8.png)
 
 ![Lab 8 Screenshot](lab8b.png)
+<div align="right">
+    ⬅️<a href="../README.md"> Back</a>
+</div>
