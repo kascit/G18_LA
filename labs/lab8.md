@@ -1,12 +1,12 @@
-# Lab 8: Shell Scripting Basics  
+# Lab 8: Shell Scripting Basics
 
-## 📌 Objective  
-Write shell scripts to print system information, perform basic mathematical calculations with user input, and use redirection operators.  
+## 📌 Objective
+Write shell scripts to print system information, perform basic mathematical calculations with user input, and use redirection operators.
 
-## 🛠️ Steps  
+## 🛠️ Steps
 
-### 1️⃣ **Print System Information**  
-Run the following shell script to display system details:  
+### 1️⃣ **Print System Information**
+Run the following shell script to display system details:
 
 ```bash
 #!/bin/bash
@@ -14,8 +14,8 @@ echo "System Information:"
 lscpu
 ```
 
-### 2️⃣ **Perform Basic Mathematical Calculation with User Input**  
-Use the following script to take two numbers as input and perform an operation:  
+### 2️⃣ **Perform Basic Mathematical Calculation with User Input**
+Use the following script to take two numbers as input and perform an operation:
 
 ```bash
 #!/bin/bash
@@ -25,14 +25,14 @@ read -p "Enter second number: " num2
 echo "Result: $((num1 $op num2))"
 ```
 
-### 3️⃣ **Use Redirection Operators**  
-Store command output in a file using redirection:  
+### 3️⃣ **Use Redirection Operators**
+Store command output in a file using redirection:
 
 ```bash
 ls -l > output.txt
 ```
 
-## 🖼️ **Screenshots**  
+## 🖼️ **Screenshots**
 ![Lab 8 Screenshot](lab8.png)
 
 ![Lab 8 Screenshot](lab8b.png)

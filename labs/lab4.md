@@ -1,44 +1,44 @@
-# Lab 4: Directory Permissions and User Access Control  
+# Lab 4: Directory Permissions and User Access Control
 
-## 📌 Objective  
-Learn how to create directories, set permissions using symbolic and octal methods, and configure `umask` for user access control.  
+## 📌 Objective
+Learn how to create directories, set permissions using symbolic and octal methods, and configure `umask` for user access control.
 
-## 🛠️ Steps  
+## 🛠️ Steps
 
-### 1️⃣ **Create the `/home/consultants` Directory**  
-Run the following command to create the directory:  
+### 1️⃣ **Create the `/home/consultants` Directory**
+Run the following command to create the directory:
 
 ```bash
 sudo mkdir /home/consultants
 ```
 
-### 2️⃣ **Add Write Permission to the `consultants` Group**  
-Use symbolic notation to grant group write access:  
+### 2️⃣ **Add Write Permission to the `consultants` Group**
+Use symbolic notation to grant group write access:
 
 ```bash
 sudo chmod g+w /home/consultants
 ```
 
-### 3️⃣ **Restrict Access for Others**  
-Use the octal method to set strict permissions (no access for others):  
+### 3️⃣ **Restrict Access for Others**
+Use the octal method to set strict permissions (no access for others):
 
 ```bash
 sudo chmod 770 /home/consultants
 ```
 
-### 4️⃣ **Change the Default `umask` for `operator1`**  
-Edit the user's shell profile to set a restrictive `umask`:  
+### 4️⃣ **Change the Default `umask` for `operator1`**
+Edit the user's shell profile to set a restrictive `umask`:
 
 ```bash
 sudo usermod -u 0027 operator1
 ```
 
-Verify the change by switching to `operator1` and checking the `umask`:  
+Verify the change by switching to `operator1` and checking the `umask`:
 
 ```bash
 su - operator1
 umask
 ```
 
-## 🖼️ **Screenshot**  
+## 🖼️ **Screenshot**
 ![Lab 4 Screenshot](lab4.png)
